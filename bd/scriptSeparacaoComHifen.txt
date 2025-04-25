@@ -1,0 +1,11 @@
+# Atualizar o campo "silabas" para usar hifens em vez de vírgulas e remover colchetes
+for item in palavras_unicas:
+    silabas = item.get("silabas", [])
+    item["silabas"] = "-".join(silabas)
+
+# Salvar o arquivo atualizado
+caminho_silabas_formatadas = "/mnt/data/arquivo_silabas_formatadas.json"
+with open(caminho_silabas_formatadas, "w", encoding="utf-8") as f:
+    json.dump(dados_filtrados, f, ensure_ascii=False, indent=2)
+
+caminho_silabas_formatadas
