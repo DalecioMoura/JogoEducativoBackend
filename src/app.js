@@ -1,8 +1,12 @@
 const express = require('express');
-const path = require('path');
-const app = express();
-const routes = require('./routes/index.routes');
 const cors = require('cors');
+const path = require('path');
+
+
+const routes = require('./routes/index.routes');
+
+const app = express();
+
 
 app.use(cors());
 app.use(express.json()); // permite ler o JSON no corpo das requisições

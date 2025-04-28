@@ -1,5 +1,6 @@
 const express = require('express');
 const router = express.Router();
+
 const JogoController = require('../controllers/JogoController');
 const PalavrasController = require('../controllers/PalavrasController');
 
