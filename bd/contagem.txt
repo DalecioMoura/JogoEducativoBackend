@@ -1,0 +1,20 @@
+import json
+from collections import Counter
+
+# Carregar o conteúdo do arquivo JSON
+with open("/mnt/data/arquivo.json", "r", encoding="utf-8") as f:
+    data = json.load(f)
+
+# Extrair todas as palavras
+palavras = [item["palavra"] for item in data["palavras"]]
+
+# Contar as ocorrências de cada palavra
+contador = Counter(palavras)
+
+# Verificar quantas palavras estão repetidas (ocorrem mais de uma vez)
+repetidas = {palavra: contagem for palavra, contagem in contador.items() if contagem > 1}
+
+# Total de itens repetidos
+total_repetidos = len(repetidas)
+
+total_repetidos, repetidas
