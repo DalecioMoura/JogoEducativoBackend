@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const caminhoBD = path.join(__dirname, '../../bd/arquivo_silabas_formatadas.json');
+const caminhoBD = path.join(__dirname, '../../bd/palavrasAtualizadas.json');
 
 function lerPalavras(){
     const palavras = fs.readFileSync(caminhoBD, 'utf-8');
