@@ -1,0 +1,3194 @@
+{
+    "verbos": [
+      {
+        "amar": {
+          "presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu amo",
+                  "segunda pessoa": "tu amas",
+                  "terceira pessoa": "ele/ela ama"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós amamos",
+                  "segunda pessoa": "vós amais",
+                  "terceira pessoa": "eles/elas amam"
+                }
+              ]
+            }
+          ],
+          "pretérito_perfeito": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu amei",
+                  "segunda pessoa": "tu amaste",
+                  "terceira pessoa": "ele/ela amou"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós amamos",
+                  "segunda pessoa": "vós amastes",
+                  "terceira pessoa": "eles/elas amaram"
+                }
+              ]
+            }
+          ],
+          "futuro_do_presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu amarei",
+                  "segunda pessoa": "tu amarás",
+                  "terceira pessoa": "ele/ela amará"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós amaremos",
+                  "segunda pessoa": "vós amareis",
+                  "terceira pessoa": "eles/elas amarão"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "comer": {
+          "presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu como",
+                  "segunda pessoa": "tu comes",
+                  "terceira pessoa": "ele/ela come"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós comemos",
+                  "segunda pessoa": "vós comeis",
+                  "terceira pessoa": "eles/elas comem"
+                }
+              ]
+            }
+          ],
+          "pretérito_perfeito": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu comi",
+                  "segunda pessoa": "tu comeste",
+                  "terceira pessoa": "ele/ela comeu"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós comemos",
+                  "segunda pessoa": "vós comestes",
+                  "terceira pessoa": "eles/elas comeram"
+                }
+              ]
+            }
+          ],
+          "futuro_do_presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu comerei",
+                  "segunda pessoa": "tu comerás",
+                  "terceira pessoa": "ele/ela comerá"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós comeremos",
+                  "segunda pessoa": "vós comereis",
+                  "terceira pessoa": "eles/elas comerão"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "partir": {
+          "presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu parto",
+                  "segunda pessoa": "tu partes",
+                  "terceira pessoa": "ele/ela parte"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós partimos",
+                  "segunda pessoa": "vós partis",
+                  "terceira pessoa": "eles/elas partem"
+                }
+              ]
+            }
+          ],
+          "pretérito_perfeito": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu parti",
+                  "segunda pessoa": "tu partiste",
+                  "terceira pessoa": "ele/ela partiu"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós partimos",
+                  "segunda pessoa": "vós partistes",
+                  "terceira pessoa": "eles/elas partiram"
+                }
+              ]
+            }
+          ],
+          "futuro_do_presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu partirei",
+                  "segunda pessoa": "tu partirás",
+                  "terceira pessoa": "ele/ela partirá"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós partiremos",
+                  "segunda pessoa": "vós partireis",
+                  "terceira pessoa": "eles/elas partirão"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "falar": {
+          "presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu falo",
+                  "segunda pessoa": "tu falas",
+                  "terceira pessoa": "ele/ela fala"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós falamos",
+                  "segunda pessoa": "vós falais",
+                  "terceira pessoa": "eles/elas falam"
+                }
+              ]
+            }
+          ],
+          "pretérito_perfeito": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu falei",
+                  "segunda pessoa": "tu falaste",
+                  "terceira pessoa": "ele/ela falou"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós falamos",
+                  "segunda pessoa": "vós falastes",
+                  "terceira pessoa": "eles/elas falaram"
+                }
+              ]
+            }
+          ],
+          "futuro_do_presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu falarei",
+                  "segunda pessoa": "tu falarás",
+                  "terceira pessoa": "ele/ela falará"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós falaremos",
+                  "segunda pessoa": "vós falareis",
+                  "terceira pessoa": "eles/elas falarão"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "viver": {
+          "presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu vivo",
+                  "segunda pessoa": "tu vives",
+                  "terceira pessoa": "ele/ela vive"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós vivemos",
+                  "segunda pessoa": "vós viveis",
+                  "terceira pessoa": "eles/elas vivem"
+                }
+              ]
+            }
+          ],
+          "pretérito_perfeito": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu vivi",
+                  "segunda pessoa": "tu viveste",
+                  "terceira pessoa": "ele/ela viveu"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós vivemos",
+                  "segunda pessoa": "vós vivestes",
+                  "terceira pessoa": "eles/elas viveram"
+                }
+              ]
+            }
+          ],
+          "futuro_do_presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu viverei",
+                  "segunda pessoa": "tu viverás",
+                  "terceira pessoa": "ele/ela viverá"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós viveremos",
+                  "segunda pessoa": "vós vivereis",
+                  "terceira pessoa": "eles/elas viverão"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "correr": {
+          "presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu corro",
+                  "segunda pessoa": "tu corres",
+                  "terceira pessoa": "ele/ela corre"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós corremos",
+                  "segunda pessoa": "vós correis",
+                  "terceira pessoa": "eles/elas correm"
+                }
+              ]
+            }
+          ],
+          "pretérito_perfeito": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu corri",
+                  "segunda pessoa": "tu correstes",
+                  "terceira pessoa": "ele/ela correu"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós corremos",
+                  "segunda pessoa": "vós correstes",
+                  "terceira pessoa": "eles/elas correram"
+                }
+              ]
+            }
+          ],
+          "futuro_do_presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu correrei",
+                  "segunda pessoa": "tu correrás",
+                  "terceira pessoa": "ele/ela correrá"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós correremos",
+                  "segunda pessoa": "vós correreis",
+                  "terceira pessoa": "eles/elas correrão"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "sentir": {
+          "presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu sinto",
+                  "segunda pessoa": "tu sentes",
+                  "terceira pessoa": "ele/ela sente"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós sentimos",
+                  "segunda pessoa": "vós sentis",
+                  "terceira pessoa": "eles/elas sentem"
+                }
+              ]
+            }
+          ],
+          "pretérito_perfeito": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu senti",
+                  "segunda pessoa": "tu sentiste",
+                  "terceira pessoa": "ele/ela sentiu"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós sentimos",
+                  "segunda pessoa": "vós sentistes",
+                  "terceira pessoa": "eles/elas sentiram"
+                }
+              ]
+            }
+          ],
+          "futuro_do_presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu sentirei",
+                  "segunda pessoa": "tu sentirás",
+                  "terceira pessoa": "ele/ela sentirá"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós sentiremos",
+                  "segunda pessoa": "vós sentireis",
+                  "terceira pessoa": "eles/elas sentirão"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "abrir": {
+          "presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu abro",
+                  "segunda pessoa": "tu abres",
+                  "terceira pessoa": "ele/ela abre"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós abrimos",
+                  "segunda pessoa": "vós abris",
+                  "terceira pessoa": "eles/elas abrem"
+                }
+              ]
+            }
+          ],
+          "pretérito_perfeito": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu abri",
+                  "segunda pessoa": "tu abriste",
+                  "terceira pessoa": "ele/ela abriu"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós abrimos",
+                  "segunda pessoa": "vós abristes",
+                  "terceira pessoa": "eles/elas abriram"
+                }
+              ]
+            }
+          ],
+          "futuro_do_presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu abrirei",
+                  "segunda pessoa": "tu abrirás",
+                  "terceira pessoa": "ele/ela abrirá"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós abriremos",
+                  "segunda pessoa": "vós abrireis",
+                  "terceira pessoa": "eles/elas abrirão"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "estudar": {
+          "presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu estudo",
+                  "segunda pessoa": "tu estudas",
+                  "terceira pessoa": "ele/ela estuda"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós estudamos",
+                  "segunda pessoa": "vós estudais",
+                  "terceira pessoa": "eles/elas estudam"
+                }
+              ]
+            }
+          ],
+          "pretérito_perfeito": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu estudei",
+                  "segunda pessoa": "tu estudaste",
+                  "terceira pessoa": "ele/ela estudou"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós estudamos",
+                  "segunda pessoa": "vós estudastes",
+                  "terceira pessoa": "eles/elas estudaram"
+                }
+              ]
+            }
+          ],
+          "futuro_do_presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu estudarei",
+                  "segunda pessoa": "tu estudarás",
+                  "terceira pessoa": "ele/ela estudará"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós estudaremos",
+                  "segunda pessoa": "vós estudareis",
+                  "terceira pessoa": "eles/elas estudarão"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "trabalhar": {
+          "presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu trabalho",
+                  "segunda pessoa": "tu trabalhas",
+                  "terceira pessoa": "ele/ela trabalha"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós trabalhamos",
+                  "segunda pessoa": "vós trabalhais",
+                  "terceira pessoa": "eles/elas trabalham"
+                }
+              ]
+            }
+          ],
+          "pretérito_perfeito": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu trabalhei",
+                  "segunda pessoa": "tu trabalhaste",
+                  "terceira pessoa": "ele/ela trabalhou"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós trabalhamos",
+                  "segunda pessoa": "vós trabalhastes",
+                  "terceira pessoa": "eles/elas trabalharam"
+                }
+              ]
+            }
+          ],
+          "futuro_do_presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu trabalharei",
+                  "segunda pessoa": "tu trabalharás",
+                  "terceira pessoa": "ele/ela trabalhará"
+                }
+              ],
+              "plural": [
+                {
+                  "primeira pessoa": "nós trabalharemos",
+                  "segunda pessoa": "vós trabalhareis",
+                  "terceira pessoa": "eles/elas trabalharão"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "andar": {
+          "presente": [
+            {
+              "singular": [
+                {
+                  "primeira pessoa": "eu ando",
+                  "segunda pessoa": "tu andas",
+                  "terceira pessoa": "ele/ela anda"
+                }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós andamos",
+                "segunda pessoa": "vós andais",
+                "terceira pessoa": "eles/elas andam"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu andei",
+                "segunda pessoa": "tu andaste",
+                "terceira pessoa": "ele/ela andou"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós andamos",
+                "segunda pessoa": "vós andastes",
+                "terceira pessoa": "eles/elas andaram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu andarei",
+                "segunda pessoa": "tu andarás",
+                "terceira pessoa": "ele/ela andará"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós andaremos",
+                "segunda pessoa": "vós andareis",
+                "terceira pessoa": "eles/elas andarão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "beber": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu bebo",
+                "segunda pessoa": "tu bebes",
+                "terceira pessoa": "ele/ela bebe"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós bebemos",
+                "segunda pessoa": "vós bebeis",
+                "terceira pessoa": "eles/elas bebem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu bebi",
+                "segunda pessoa": "tu bebeste",
+                "terceira pessoa": "ele/ela bebeu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós bebemos",
+                "segunda pessoa": "vós bebestes",
+                "terceira pessoa": "eles/elas beberam"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu beberei",
+                "segunda pessoa": "tu beberás",
+                "terceira pessoa": "ele/ela beberá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós beberemos",
+                "segunda pessoa": "vós bebereis",
+                "terceira pessoa": "eles/elas beberão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "construir": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu construo",
+                "segunda pessoa": "tu constróis",
+                "terceira pessoa": "ele/ela constrói"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós construímos",
+                "segunda pessoa": "vós construís",
+                "terceira pessoa": "eles/elas constroem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu construí",
+                "segunda pessoa": "tu construíste",
+                "terceira pessoa": "ele/ela construiu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós construímos",
+                "segunda pessoa": "vós construístes",
+                "terceira pessoa": "eles/elas construíram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu construirei",
+                "segunda pessoa": "tu construirás",
+                "terceira pessoa": "ele/ela construirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós construiremos",
+                "segunda pessoa": "vós construireis",
+                "terceira pessoa": "eles/elas construirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "dizer": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu digo",
+                "segunda pessoa": "tu dizes",
+                "terceira pessoa": "ele/ela diz"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós dizemos",
+                "segunda pessoa": "vós dizeis",
+                "terceira pessoa": "eles/elas dizem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu disse",
+                "segunda pessoa": "tu disseste",
+                "terceira pessoa": "ele/ela disse"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós dissemos",
+                "segunda pessoa": "vós dissestes",
+                "terceira pessoa": "eles/elas disseram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu direi",
+                "segunda pessoa": "tu dirás",
+                "terceira pessoa": "ele/ela dirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós diremos",
+                "segunda pessoa": "vós direis",
+                "terceira pessoa": "eles/elas dirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "ficar": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu fico",
+                "segunda pessoa": "tu ficas",
+                "terceira pessoa": "ele/ela fica"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós ficamos",
+                "segunda pessoa": "vós ficais",
+                "terceira pessoa": "eles/elas ficam"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu fiquei",
+                "segunda pessoa": "tu ficaste",
+                "terceira pessoa": "ele/ela ficou"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós ficamos",
+                "segunda pessoa": "vós ficastes",
+                "terceira pessoa": "eles/elas ficaram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu ficarei",
+                "segunda pessoa": "tu ficarás",
+                "terceira pessoa": "ele/ela ficará"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós ficaremos",
+                "segunda pessoa": "vós ficareis",
+                "terceira pessoa": "eles/elas ficarão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "jogar": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu jogo",
+                "segunda pessoa": "tu jogas",
+                "terceira pessoa": "ele/ela joga"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós jogamos",
+                "segunda pessoa": "vós jogais",
+                "terceira pessoa": "eles/elas jogam"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu joguei",
+                "segunda pessoa": "tu jogaste",
+                "terceira pessoa": "ele/ela jogou"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós jogamos",
+                "segunda pessoa": "vós jogastes",
+                "terceira pessoa": "eles/elas jogaram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu jogarei",
+                "segunda pessoa": "tu jogarás",
+                "terceira pessoa": "ele/ela jogará"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós jogaremos",
+                "segunda pessoa": "vós jogareis",
+                "terceira pessoa": "eles/elas jogarão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "ler": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu leio",
+                "segunda pessoa": "tu lês",
+                "terceira pessoa": "ele/ela lê"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós lemos",
+                "segunda pessoa": "vós ledes",
+                "terceira pessoa": "eles/elas leem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu li",
+                "segunda pessoa": "tu leste",
+                "terceira pessoa": "ele/ela leu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós lemos",
+                "segunda pessoa": "vós lestes",
+                "terceira pessoa": "eles/elas leram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu lerei",
+                "segunda pessoa": "tu lerás",
+                "terceira pessoa": "ele/ela lerá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós leremos",
+                "segunda pessoa": "vós lereis",
+                "terceira pessoa": "eles/elas lerão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "ouvir": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu ouço",
+                "segunda pessoa": "tu ouves",
+                "terceira pessoa": "ele/ela ouve"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós ouvimos",
+                "segunda pessoa": "vós ouvis",
+                "terceira pessoa": "eles/elas ouvem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu ouvi",
+                "segunda pessoa": "tu ouviste",
+                "terceira pessoa": "ele/ela ouviu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós ouvimos",
+                "segunda pessoa": "vós ouvistes",
+                "terceira pessoa": "eles/elas ouviram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu ouvirei",
+                "segunda pessoa": "tu ouvirás",
+                "terceira pessoa": "ele/ela ouvirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós ouviremos",
+                "segunda pessoa": "vós ouvireis",
+                "terceira pessoa": "eles/elas ouvirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "pedir": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu peço",
+                "segunda pessoa": "tu pedes",
+                "terceira pessoa": "ele/ela pede"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós pedimos",
+                "segunda pessoa": "vós pedis",
+                "terceira pessoa": "eles/elas pedem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu pedi",
+                "segunda pessoa": "tu pediste",
+                "terceira pessoa": "ele/ela pediu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós pedimos",
+                "segunda pessoa": "vós pedistes",
+                "terceira pessoa": "eles/elas pediram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu pedirei",
+                "segunda pessoa": "tu pedirás",
+                "terceira pessoa": "ele/ela pedirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós pediremos",
+                "segunda pessoa": "vós pedireis",
+                "terceira pessoa": "eles/elas pedirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "saber": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu sei",
+                "segunda pessoa": "tu sabes",
+                "terceira pessoa": "ele/ela sabe"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós sabemos",
+                "segunda pessoa": "vós sabeis",
+                "terceira pessoa": "eles/elas sabem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu soube",
+                "segunda pessoa": "tu soubeste",
+                "terceira pessoa": "ele/ela soube"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós soubemos",
+                "segunda pessoa": "vós soubestes",
+                "terceira pessoa": "eles/elas souberam"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu saberei",
+                "segunda pessoa": "tu saberás",
+                "terceira pessoa": "ele/ela saberá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós saberemos",
+                "segunda pessoa": "vós sabereis",
+                "terceira pessoa": "eles/elas saberão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "assistir": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu assisto",
+                "segunda pessoa": "tu assistes",
+                "terceira pessoa": "ele/ela assiste"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós assistimos",
+                "segunda pessoa": "vós assistis",
+                "terceira pessoa": "eles/elas assistem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu assisti",
+                "segunda pessoa": "tu assististe",
+                "terceira pessoa": "ele/ela assistiu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós assistimos",
+                "segunda pessoa": "vós assististes",
+                "terceira pessoa": "eles/elas assistiram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu assistirei",
+                "segunda pessoa": "tu assistirás",
+                "terceira pessoa": "ele/ela assistirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós assistiremos",
+                "segunda pessoa": "vós assistireis",
+                "terceira pessoa": "eles/elas assistirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "trazer": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu trago",
+                "segunda pessoa": "tu trazes",
+                "terceira pessoa": "ele/ela traz"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós trazemos",
+                "segunda pessoa": "vós trazeis",
+                "terceira pessoa": "eles/elas trazem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu trouxe",
+                "segunda pessoa": "tu trouxeste",
+                "terceira pessoa": "ele/ela trouxe"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós trouxemos",
+                "segunda pessoa": "vós trouxestes",
+                "terceira pessoa": "eles/elas trouxeram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu trarei",
+                "segunda pessoa": "tu trarás",
+                "terceira pessoa": "ele/ela trará"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós traremos",
+                "segunda pessoa": "vós trareis",
+                "terceira pessoa": "eles/elas trarão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "rir": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu rio",
+                "segunda pessoa": "tu ris",
+                "terceira pessoa": "ele/ela ri"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós rimos",
+                "segunda pessoa": "vós rides",
+                "terceira pessoa": "eles/elas riem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu ri",
+                "segunda pessoa": "tu riste",
+                "terceira pessoa": "ele/ela riu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós rimos",
+                "segunda pessoa": "vós ristes",
+                "terceira pessoa": "eles/elas riram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu rirei",
+                "segunda pessoa": "tu rirás",
+                "terceira pessoa": "ele/ela rirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós riremos",
+                "segunda pessoa": "vós rireis",
+                "terceira pessoa": "eles/elas rirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "cantar": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu canto",
+                "segunda pessoa": "tu cantas",
+                "terceira pessoa": "ele/ela canta"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós cantamos",
+                "segunda pessoa": "vós cantais",
+                "terceira pessoa": "eles/elas cantam"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu cantei",
+                "segunda pessoa": "tu cantaste",
+                "terceira pessoa": "ele/ela cantou"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós cantamos",
+                "segunda pessoa": "vós cantastes",
+                "terceira pessoa": "eles/elas cantaram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu cantarei",
+                "segunda pessoa": "tu cantarás",
+                "terceira pessoa": "ele/ela cantará"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós cantaremos",
+                "segunda pessoa": "vós cantareis",
+                "terceira pessoa": "eles/elas cantarão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "subir": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu subo",
+                "segunda pessoa": "tu sobes",
+                "terceira pessoa": "ele/ela sobe"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós subimos",
+                "segunda pessoa": "vós subis",
+                "terceira pessoa": "eles/elas sobem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu subi",
+                "segunda pessoa": "tu subiste",
+                "terceira pessoa": "ele/ela subiu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós subimos",
+                "segunda pessoa": "vós subistes",
+                "terceira pessoa": "eles/elas subiram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu subirei",
+                "segunda pessoa": "tu subirás",
+                "terceira pessoa": "ele/ela subirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós subiremos",
+                "segunda pessoa": "vós subireis",
+                "terceira pessoa": "eles/elas subirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "assistir": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu assisto",
+                "segunda pessoa": "tu assistes",
+                "terceira pessoa": "ele/ela assiste"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós assistimos",
+                "segunda pessoa": "vós assistis",
+                "terceira pessoa": "eles/elas assistem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu assisti",
+                "segunda pessoa": "tu assististe",
+                "terceira pessoa": "ele/ela assistiu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós assistimos",
+                "segunda pessoa": "vós assististes",
+                "terceira pessoa": "eles/elas assistiram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu assistirei",
+                "segunda pessoa": "tu assistirás",
+                "terceira pessoa": "ele/ela assistirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós assistiremos",
+                "segunda pessoa": "vós assistireis",
+                "terceira pessoa": "eles/elas assistirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "trazer": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu trago",
+                "segunda pessoa": "tu trazes",
+                "terceira pessoa": "ele/ela traz"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós trazemos",
+                "segunda pessoa": "vós trazeis",
+                "terceira pessoa": "eles/elas trazem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu trouxe",
+                "segunda pessoa": "tu trouxeste",
+                "terceira pessoa": "ele/ela trouxe"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós trouxemos",
+                "segunda pessoa": "vós trouxestes",
+                "terceira pessoa": "eles/elas trouxeram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu trarei",
+                "segunda pessoa": "tu trarás",
+                "terceira pessoa": "ele/ela trará"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós traremos",
+                "segunda pessoa": "vós trareis",
+                "terceira pessoa": "eles/elas trarão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "rir": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu rio",
+                "segunda pessoa": "tu ris",
+                "terceira pessoa": "ele/ela ri"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós rimos",
+                "segunda pessoa": "vós rides",
+                "terceira pessoa": "eles/elas riem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu ri",
+                "segunda pessoa": "tu riste",
+                "terceira pessoa": "ele/ela riu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós rimos",
+                "segunda pessoa": "vós ristes",
+                "terceira pessoa": "eles/elas riram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu rirei",
+                "segunda pessoa": "tu rirás",
+                "terceira pessoa": "ele/ela rirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós riremos",
+                "segunda pessoa": "vós rireis",
+                "terceira pessoa": "eles/elas rirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "cantar": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu canto",
+                "segunda pessoa": "tu cantas",
+                "terceira pessoa": "ele/ela canta"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós cantamos",
+                "segunda pessoa": "vós cantais",
+                "terceira pessoa": "eles/elas cantam"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu cantei",
+                "segunda pessoa": "tu cantaste",
+                "terceira pessoa": "ele/ela cantou"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós cantamos",
+                "segunda pessoa": "vós cantastes",
+                "terceira pessoa": "eles/elas cantaram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu cantarei",
+                "segunda pessoa": "tu cantarás",
+                "terceira pessoa": "ele/ela cantará"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós cantaremos",
+                "segunda pessoa": "vós cantareis",
+                "terceira pessoa": "eles/elas cantarão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "subir": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu subo",
+                "segunda pessoa": "tu sobes",
+                "terceira pessoa": "ele/ela sobe"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós subimos",
+                "segunda pessoa": "vós subis",
+                "terceira pessoa": "eles/elas sobem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu subi",
+                "segunda pessoa": "tu subiste",
+                "terceira pessoa": "ele/ela subiu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós subimos",
+                "segunda pessoa": "vós subistes",
+                "terceira pessoa": "eles/elas subiram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu subirei",
+                "segunda pessoa": "tu subirás",
+                "terceira pessoa": "ele/ela subirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós subiremos",
+                "segunda pessoa": "vós subireis",
+                "terceira pessoa": "eles/elas subirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "dormir": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu durmo",
+                "segunda pessoa": "tu dormes",
+                "terceira pessoa": "ele/ela dorme"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós dormimos",
+                "segunda pessoa": "vós dormis",
+                "terceira pessoa": "eles/elas dormem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu dormi",
+                "segunda pessoa": "tu dormiste",
+                "terceira pessoa": "ele/ela dormiu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós dormimos",
+                "segunda pessoa": "vós dormistes",
+                "terceira pessoa": "eles/elas dormiram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu dormirei",
+                "segunda pessoa": "tu dormirás",
+                "terceira pessoa": "ele/ela dormirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós dormiremos",
+                "segunda pessoa": "vós dormireis",
+                "terceira pessoa": "eles/elas dormirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "encontrar": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu encontro",
+                "segunda pessoa": "tu encontras",
+                "terceira pessoa": "ele/ela encontra"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós encontramos",
+                "segunda pessoa": "vós encontrais",
+                "terceira pessoa": "eles/elas encontram"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu encontrei",
+                "segunda pessoa": "tu encontraste",
+                "terceira pessoa": "ele/ela encontrou"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós encontramos",
+                "segunda pessoa": "vós encontrastes",
+                "terceira pessoa": "eles/elas encontraram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu encontrarei",
+                "segunda pessoa": "tu encontrarás",
+                "terceira pessoa": "ele/ela encontrará"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós encontraremos",
+                "segunda pessoa": "vós encontrareis",
+                "terceira pessoa": "eles/elas encontrarão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "ganhar": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu ganho",
+                "segunda pessoa": "tu ganhas",
+                "terceira pessoa": "ele/ela ganha"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós ganhamos",
+                "segunda pessoa": "vós ganhais",
+                "terceira pessoa": "eles/elas ganham"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu ganhei",
+                "segunda pessoa": "tu ganhaste",
+                "terceira pessoa": "ele/ela ganhou"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós ganhamos",
+                "segunda pessoa": "vós ganhastes",
+                "terceira pessoa": "eles/elas ganharam"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu ganharei",
+                "segunda pessoa": "tu ganharás",
+                "terceira pessoa": "ele/ela ganhará"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós ganharemos",
+                "segunda pessoa": "vós ganhareis",
+                "terceira pessoa": "eles/elas ganharão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "morrer": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu morro",
+                "segunda pessoa": "tu morres",
+                "terceira pessoa": "ele/ela morre"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós morremos",
+                "segunda pessoa": "vós morreis",
+                "terceira pessoa": "eles/elas morrem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu morri",
+                "segunda pessoa": "tu morreste",
+                "terceira pessoa": "ele/ela morreu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós morremos",
+                "segunda pessoa": "vós morrestes",
+                "terceira pessoa": "eles/elas morreram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu morrerei",
+                "segunda pessoa": "tu morrerás",
+                "terceira pessoa": "ele/ela morrerá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós morreremos",
+                "segunda pessoa": "vós morrereis",
+                "terceira pessoa": "eles/elas morrerão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "poder": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu posso",
+                "segunda pessoa": "tu podes",
+                "terceira pessoa": "ele/ela pode"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós podemos",
+                "segunda pessoa": "vós podeis",
+                "terceira pessoa": "eles/elas podem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu pude",
+                "segunda pessoa": "tu pudeste",
+                "terceira pessoa": "ele/ela pôde"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós pudemos",
+                "segunda pessoa": "vós pudestes",
+                "terceira pessoa": "eles/elas puderam"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu poderei",
+                "segunda pessoa": "tu poderás",
+                "terceira pessoa": "ele/ela poderá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós poderemos",
+                "segunda pessoa": "vós podereis",
+                "terceira pessoa": "eles/elas poderão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "agradecer": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu agradeço",
+                "segunda pessoa": "tu agradeces",
+                "terceira pessoa": "ele/ela agradece"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós agradecemos",
+                "segunda pessoa": "vós agradeceis",
+                "terceira pessoa": "eles/elas agradecem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu agradeci",
+                "segunda pessoa": "tu agradeceste",
+                "terceira pessoa": "ele/ela agradeceu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós agradecemos",
+                "segunda pessoa": "vós agradecestes",
+                "terceira pessoa": "eles/elas agradeceram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu agradecerei",
+                "segunda pessoa": "tu agradecerás",
+                "terceira pessoa": "ele/ela agradecerá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós agradeceremos",
+                "segunda pessoa": "vós agradecereis",
+                "terceira pessoa": "eles/elas agradecerão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "cobrir": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu cubro",
+                "segunda pessoa": "tu cobres",
+                "terceira pessoa": "ele/ela cobre"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós cobrimos",
+                "segunda pessoa": "vós cobris",
+                "terceira pessoa": "eles/elas cobrem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu cobri",
+                "segunda pessoa": "tu cobriste",
+                "terceira pessoa": "ele/ela cobriu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós cobrimos",
+                "segunda pessoa": "vós cobristes",
+                "terceira pessoa": "eles/elas cobriram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu cobrirei",
+                "segunda pessoa": "tu cobrirás",
+                "terceira pessoa": "ele/ela cobrirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós cobriremos",
+                "segunda pessoa": "vós cobrireis",
+                "terceira pessoa": "eles/elas cobrirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "dirigir": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu dirijo",
+                "segunda pessoa": "tu diriges",
+                "terceira pessoa": "ele/ela dirige"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós dirigimos",
+                "segunda pessoa": "vós dirigis",
+                "terceira pessoa": "eles/elas dirigem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu dirigi",
+                "segunda pessoa": "tu dirigiste",
+                "terceira pessoa": "ele/ela dirigiu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós dirigimos",
+                "segunda pessoa": "vós dirigistes",
+                "terceira pessoa": "eles/elas dirigiram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu dirigirei",
+                "segunda pessoa": "tu dirigirás",
+                "terceira pessoa": "ele/ela dirigirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós dirigiremos",
+                "segunda pessoa": "vós dirigireis",
+                "terceira pessoa": "eles/elas dirigirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "insistir": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu insisto",
+                "segunda pessoa": "tu insistes",
+                "terceira pessoa": "ele/ela insiste"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós insistimos",
+                "segunda pessoa": "vós insistis",
+                "terceira pessoa": "eles/elas insistem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu insisti",
+                "segunda pessoa": "tu insististe",
+                "terceira pessoa": "ele/ela insistiu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós insistimos",
+                "segunda pessoa": "vós insististes",
+                "terceira pessoa": "eles/elas insistiram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu insistirei",
+                "segunda pessoa": "tu insistirás",
+                "terceira pessoa": "ele/ela insistirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós insistiremos",
+                "segunda pessoa": "vós insistireis",
+                "terceira pessoa": "eles/elas insistirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "produzir": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu produzo",
+                "segunda pessoa": "tu produces",
+                "terceira pessoa": "ele/ela produz"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós produzimos",
+                "segunda pessoa": "vós produzis",
+                "terceira pessoa": "eles/elas produzem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu produzi",
+                "segunda pessoa": "tu produziste",
+                "terceira pessoa": "ele/ela produziu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós produzimos",
+                "segunda pessoa": "vós produzistes",
+                "terceira pessoa": "eles/elas produziram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu produzirei",
+                "segunda pessoa": "tu produzirás",
+                "terceira pessoa": "ele/ela produzirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós produziremos",
+                "segunda pessoa": "vós produzireis",
+                "terceira pessoa": "eles/elas produzirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "acreditar": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu acredito",
+                "segunda pessoa": "tu acreditas",
+                "terceira pessoa": "ele/ela acredita"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós acreditamos",
+                "segunda pessoa": "vós acreditais",
+                "terceira pessoa": "eles/elas acreditam"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu acreditei",
+                "segunda pessoa": "tu acreditaste",
+                "terceira pessoa": "ele/ela acreditou"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós acreditamos",
+                "segunda pessoa": "vós acreditastes",
+                "terceira pessoa": "eles/elas acreditaram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu acreditarei",
+                "segunda pessoa": "tu acreditarás",
+                "terceira pessoa": "ele/ela acreditará"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós acreditaremos",
+                "segunda pessoa": "vós acreditareis",
+                "terceira pessoa": "eles/elas acreditarão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "descobrir": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu descubro",
+                "segunda pessoa": "tu descobres",
+                "terceira pessoa": "ele/ela descobre"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós descobrimos",
+                "segunda pessoa": "vós descobris",
+                "terceira pessoa": "eles/elas descobrem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu descobri",
+                "segunda pessoa": "tu descobriste",
+                "terceira pessoa": "ele/ela descobriu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós descobrimos",
+                "segunda pessoa": "vós descobristes",
+                "terceira pessoa": "eles/elas descobriram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu descobrirei",
+                "segunda pessoa": "tu descobrirás",
+                "terceira pessoa": "ele/ela descobrirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós descobriremos",
+                "segunda pessoa": "vós descobrireis",
+                "terceira pessoa": "eles/elas descobrirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "existir": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu existo",
+                "segunda pessoa": "tu existes",
+                "terceira pessoa": "ele/ela existe"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós existimos",
+                "segunda pessoa": "vós existis",
+                "terceira pessoa": "eles/elas existem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu existi",
+                "segunda pessoa": "tu exististe",
+                "terceira pessoa": "ele/ela existiu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós existimos",
+                "segunda pessoa": "vós exististes",
+                "terceira pessoa": "eles/elas existiram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu existirei",
+                "segunda pessoa": "tu existirás",
+                "terceira pessoa": "ele/ela existirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós existiremos",
+                "segunda pessoa": "vós existireis",
+                "terceira pessoa": "eles/elas existirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "permitir": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu permito",
+                "segunda pessoa": "tu permites",
+                "terceira pessoa": "ele/ela permite"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós permitimos",
+                "segunda pessoa": "vós permitis",
+                "terceira pessoa": "eles/elas permitem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu permiti",
+                "segunda pessoa": "tu permitiste",
+                "terceira pessoa": "ele/ela permitiu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós permitimos",
+                "segunda pessoa": "vós permitistes",
+                "terceira pessoa": "eles/elas permitiram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu permitirei",
+                "segunda pessoa": "tu permitirás",
+                "terceira pessoa": "ele/ela permitirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós permitiremos",
+                "segunda pessoa": "vós permitireis",
+                "terceira pessoa": "eles/elas permitirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "receber": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu recebo",
+                "segunda pessoa": "tu recebes",
+                "terceira pessoa": "ele/ela recebe"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós recebemos",
+                "segunda pessoa": "vós recebeis",
+                "terceira pessoa": "eles/elas recebem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu recebi",
+                "segunda pessoa": "tu recebeste",
+                "terceira pessoa": "ele/ela recebeu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós recebemos",
+                "segunda pessoa": "vós recebestes",
+                "terceira pessoa": "eles/elas receberam"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu receberei",
+                "segunda pessoa": "tu receberás",
+                "terceira pessoa": "ele/ela receberá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós receberemos",
+                "segunda pessoa": "vós recebereis",
+                "terceira pessoa": "eles/elas receberão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "beber": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu bebo",
+                "segunda pessoa": "tu bebes",
+                "terceira pessoa": "ele/ela bebe"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós bebemos",
+                "segunda pessoa": "vós bebeis",
+                "terceira pessoa": "eles/elas bebem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu bebi",
+                "segunda pessoa": "tu bebeste",
+                "terceira pessoa": "ele/ela bebeu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós bebemos",
+                "segunda pessoa": "vós bebestes",
+                "terceira pessoa": "eles/elas beberam"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu beberei",
+                "segunda pessoa": "tu beberás",
+                "terceira pessoa": "ele/ela beberá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós beberemos",
+                "segunda pessoa": "vós bebereis",
+                "terceira pessoa": "eles/elas beberão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "falar": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu falo",
+                "segunda pessoa": "tu falas",
+                "terceira pessoa": "ele/ela fala"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós falamos",
+                "segunda pessoa": "vós falais",
+                "terceira pessoa": "eles/elas falam"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu falei",
+                "segunda pessoa": "tu falaste",
+                "terceira pessoa": "ele/ela falou"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós falamos",
+                "segunda pessoa": "vós falastes",
+                "terceira pessoa": "eles/elas falaram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu falarei",
+                "segunda pessoa": "tu falarás",
+                "terceira pessoa": "ele/ela falará"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós falaremos",
+                "segunda pessoa": "vós falareis",
+                "terceira pessoa": "eles/elas falarão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "correr": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu corro",
+                "segunda pessoa": "tu corres",
+                "terceira pessoa": "ele/ela corre"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós corremos",
+                "segunda pessoa": "vós correis",
+                "terceira pessoa": "eles/elas correm"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu corri",
+                "segunda pessoa": "tu correstes",
+                "terceira pessoa": "ele/ela correu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós corremos",
+                "segunda pessoa": "vós correstes",
+                "terceira pessoa": "eles/elas correram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu correrei",
+                "segunda pessoa": "tu correrás",
+                "terceira pessoa": "ele/ela correrá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós correremos",
+                "segunda pessoa": "vós correreis",
+                "terceira pessoa": "eles/elas correrão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "sentir": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu sinto",
+                "segunda pessoa": "tu sentes",
+                "terceira pessoa": "ele/ela sente"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós sentimos",
+                "segunda pessoa": "vós sentis",
+                "terceira pessoa": "eles/elas sentem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu senti",
+                "segunda pessoa": "tu sentiste",
+                "terceira pessoa": "ele/ela sentiu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós sentimos",
+                "segunda pessoa": "vós sentistes",
+                "terceira pessoa": "eles/elas sentiram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu sentirei",
+                "segunda pessoa": "tu sentirás",
+                "terceira pessoa": "ele/ela sentirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós sentiremos",
+                "segunda pessoa": "vós sentireis",
+                "terceira pessoa": "eles/elas sentirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "trabalhar": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu trabalho",
+                "segunda pessoa": "tu trabalhas",
+                "terceira pessoa": "ele/ela trabalha"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós trabalhamos",
+                "segunda pessoa": "vós trabalhais",
+                "terceira pessoa": "eles/elas trabalham"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu trabalhei",
+                "segunda pessoa": "tu trabalhaste",
+                "terceira pessoa": "ele/ela trabalhou"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós trabalhamos",
+                "segunda pessoa": "vós trabalhastes",
+                "terceira pessoa": "eles/elas trabalharam"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu trabalharei",
+                "segunda pessoa": "tu trabalharás",
+                "terceira pessoa": "ele/ela trabalhará"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós trabalharemos",
+                "segunda pessoa": "vós trabalhareis",
+                "terceira pessoa": "eles/elas trabalharão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "aprender": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu aprendo",
+                "segunda pessoa": "tu aprendes",
+                "terceira pessoa": "ele/ela aprende"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós aprendemos",
+                "segunda pessoa": "vós aprendeis",
+                "terceira pessoa": "eles/elas aprendem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu aprendi",
+                "segunda pessoa": "tu aprendeste",
+                "terceira pessoa": "ele/ela aprendeu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós aprendemos",
+                "segunda pessoa": "vós aprendestes",
+                "terceira pessoa": "eles/elas aprenderam"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu aprenderei",
+                "segunda pessoa": "tu aprenderás",
+                "terceira pessoa": "ele/ela aprenderá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós aprenderemos",
+                "segunda pessoa": "vós aprendereis",
+                "terceira pessoa": "eles/elas aprenderão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "decidir": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu decido",
+                "segunda pessoa": "tu decides",
+                "terceira pessoa": "ele/ela decide"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós decidimos",
+                "segunda pessoa": "vós decidis",
+                "terceira pessoa": "eles/elas decidem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu decidi",
+                "segunda pessoa": "tu decidiste",
+                "terceira pessoa": "ele/ela decidiu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós decidimos",
+                "segunda pessoa": "vós decidistes",
+                "terceira pessoa": "eles/elas decidiram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu decidirei",
+                "segunda pessoa": "tu decidirás",
+                "terceira pessoa": "ele/ela decidirá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós decidiremos",
+                "segunda pessoa": "vós decidireis",
+                "terceira pessoa": "eles/elas decidirão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "viajar": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu viajo",
+                "segunda pessoa": "tu viajas",
+                "terceira pessoa": "ele/ela viaja"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós viajamos",
+                "segunda pessoa": "vós viajais",
+                "terceira pessoa": "eles/elas viajam"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu viajei",
+                "segunda pessoa": "tu viajaste",
+                "terceira pessoa": "ele/ela viajou"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós viajamos",
+                "segunda pessoa": "vós viajastes",
+                "terceira pessoa": "eles/elas viajaram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu viajarei",
+                "segunda pessoa": "tu viajarás",
+                "terceira pessoa": "ele/ela viajará"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós viajaremos",
+                "segunda pessoa": "vós viajareis",
+                "terceira pessoa": "eles/elas viajarão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "conhecer": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu conheço",
+                "segunda pessoa": "tu conheces",
+                "terceira pessoa": "ele/ela conhece"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós conhecemos",
+                "segunda pessoa": "vós conheceis",
+                "terceira pessoa": "eles/elas conhecem"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu conheci",
+                "segunda pessoa": "tu conheceste",
+                "terceira pessoa": "ele/ela conheceu"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós conhecemos",
+                "segunda pessoa": "vós conhecestes",
+                "terceira pessoa": "eles/elas conheceram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu conhecerei",
+                "segunda pessoa": "tu conhecerás",
+                "terceira pessoa": "ele/ela conhecerá"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós conheceremos",
+                "segunda pessoa": "vós conhecereis",
+                "terceira pessoa": "eles/elas conhecerão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "mostrar": {
+        "presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu mostro",
+                "segunda pessoa": "tu mostras",
+                "terceira pessoa": "ele/ela mostra"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós mostramos",
+                "segunda pessoa": "vós mostrais",
+                "terceira pessoa": "eles/elas mostram"
+              }
+            ]
+          }
+        ],
+        "pretérito_perfeito": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu mostrei",
+                "segunda pessoa": "tu mostraste",
+                "terceira pessoa": "ele/ela mostrou"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós mostramos",
+                "segunda pessoa": "vós mostrastes",
+                "terceira pessoa": "eles/elas mostraram"
+              }
+            ]
+          }
+        ],
+        "futuro_do_presente": [
+          {
+            "singular": [
+              {
+                "primeira pessoa": "eu mostrarei",
+                "segunda pessoa": "tu mostrarás",
+                "terceira pessoa": "ele/ela mostrará"
+              }
+            ],
+            "plural": [
+              {
+                "primeira pessoa": "nós mostraremos",
+                "segunda pessoa": "vós mostrareis",
+                "terceira pessoa": "eles/elas mostrarão"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

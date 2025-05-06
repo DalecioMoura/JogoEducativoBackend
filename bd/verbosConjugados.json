@@ -1,0 +1,1004 @@
+{
+    "verbos": {
+      "amar": {
+        "presente": [
+          "eu amo",
+          "tu amas",
+          "ele/ela ama",
+          "nós amamos",
+          "vós amais",
+          "eles/elas amam"
+        ],
+        "pretérito_perfeito": [
+          "eu amei",
+          "tu amaste",
+          "ele/ela amou",
+          "nós amamos",
+          "vós amastes",
+          "eles/elas amaram"
+        ],
+        "futuro_do_presente": [
+          "eu amarei",
+          "tu amarás",
+          "ele/ela amará",
+          "nós amaremos",
+          "vós amareis",
+          "eles/elas amarão"
+        ],
+        "pretérito_imperfeito": [
+          "eu amava",
+          "tu amavas",
+          "ele/ela amava",
+          "nós amávamos",
+          "vós amáveis",
+          "eles/elas amavam"
+        ],
+        "pretérito_mais_que_perfeito": [
+          "eu amara",
+          "tu amaras",
+          "ele/ela amara",
+          "nós amáramos",
+          "vós amáreis",
+          "eles/elas amaram"
+        ],
+        "futuro_do_pretérito": [
+          "eu amaria",
+          "tu amarias",
+          "ele/ela amaria",
+          "nós amaríamos",
+          "vós amaríeis",
+          "eles/elas amariam"
+        ]
+      },
+      "comer": {
+        "presente": [
+          "eu como",
+          "tu comes",
+          "ele/ela come",
+          "nós comemos",
+          "vós comeis",
+          "eles/elas comem"
+        ],
+        "pretérito_perfeito": [
+          "eu comi",
+          "tu comeste",
+          "ele/ela comeu",
+          "nós comemos",
+          "vós comestes",
+          "eles/elas comeram"
+        ],
+        "futuro_do_presente": [
+          "eu comerei",
+          "tu comerás",
+          "ele/ela comerá",
+          "nós comeremos",
+          "vós comereis",
+          "eles/elas comerão"
+        ],
+        "pretérito_imperfeito": [
+          "eu comia",
+          "tu comias",
+          "ele/ela comia",
+          "nós comíamos",
+          "vós comíeis",
+          "eles/elas comiam"
+        ],
+        "pretérito_mais_que_perfeito": [
+          "eu comera",
+          "tu comeras",
+          "ele/ela comera",
+          "nós comêramos",
+          "vós comêreis",
+          "eles/elas comeram"
+        ],
+        "futuro_do_pretérito": [
+          "eu comeria",
+          "tu comerias",
+          "ele/ela comeria",
+          "nós comeríamos",
+          "vós comeríeis",
+          "eles/elas comeriam"
+        ]
+      },
+      "partir": {
+        "presente": [
+          "eu parto",
+          "tu partes",
+          "ele/ela parte",
+          "nós partimos",
+          "vós partis",
+          "eles/elas partem"
+        ],
+        "pretérito_perfeito": [
+          "eu parti",
+          "tu partiste",
+          "ele/ela partiu",
+          "nós partimos",
+          "vós partistes",
+          "eles/elas partiram"
+        ],
+        "futuro_do_presente": [
+          "eu partirei",
+          "tu partirás",
+          "ele/ela partirá",
+          "nós partiremos",
+          "vós partireis",
+          "eles/elas partirão"
+        ],
+        "pretérito_imperfeito": [
+          "eu partia",
+          "tu partias",
+          "ele/ela partia",
+          "nós partíamos",
+          "vós partíeis",
+          "eles/elas partiam"
+        ],
+        "pretérito_mais_que_perfeito": [
+          "eu partira",
+          "tu partiras",
+          "ele/ela partira",
+          "nós partíramos",
+          "vós partíreis",
+          "eles/elas partiram"
+        ],
+        "futuro_do_pretérito": [
+          "eu partiria",
+          "tu partirias",
+          "ele/ela partiria",
+          "nós partiríamos",
+          "vós partiríeis",
+          "eles/elas partiriam"
+        ]
+      },
+      "falar": {
+        "presente": [
+          "eu falo",
+          "tu falas",
+          "ele/ela fala",
+          "nós falamos",
+          "vós falais",
+          "eles/elas falam"
+        ],
+        "pretérito_perfeito": [
+          "eu falei",
+          "tu falaste",
+          "ele/ela falou",
+          "nós falamos",
+          "vós falastes",
+          "eles/elas falaram"
+        ],
+        "futuro_do_presente": [
+          "eu falarei",
+          "tu falarás",
+          "ele/ela falará",
+          "nós falaremos",
+          "vós falareis",
+          "eles/elas falarão"
+        ],
+        "pretérito_imperfeito": [
+          "eu falava",
+          "tu falavas",
+          "ele/ela falava",
+          "nós falávamos",
+          "vós faláveis",
+          "eles/elas falavam"
+        ],
+        "pretérito_mais_que_perfeito": [
+          "eu falara",
+          "tu falaras",
+          "ele/ela falara",
+          "nós faláramos",
+          "vós faláreis",
+          "eles/elas falaram"
+        ],
+        "futuro_do_pretérito": [
+          "eu falaria",
+          "tu falarias",
+          "ele/ela falaria",
+          "nós falaríamos",
+          "vós falaríeis",
+          "eles/elas falariam"
+        ]
+      },
+      "viver": {
+        "presente": [
+          "eu vivo",
+          "tu vives",
+          "ele/ela vive",
+          "nós vivemos",
+          "vós viveis",
+          "eles/elas vivem"
+        ],
+        "pretérito_perfeito": [
+          "eu vivi",
+          "tu viveste",
+          "ele/ela viveu",
+          "nós vivemos",
+          "vós vivestes",
+          "eles/elas viveram"
+        ],
+        "futuro_do_presente": [
+          "eu viverei",
+          "tu viverás",
+          "ele/ela viverá",
+          "nós viveremos",
+          "vós vivereis",
+          "eles/elas viverão"
+        ],
+        "pretérito_imperfeito": [
+          "eu vivia",
+          "tu vivias",
+          "ele/ela vivia",
+          "nós vivíamos",
+          "vós vivíeis",
+          "eles/elas viviam"
+        ],
+        "pretérito_mais_que_perfeito": [
+          "eu vivera",
+          "tu viveras",
+          "ele/ela vivera",
+          "nós vivêramos",
+          "vós vivêreis",
+          "eles/elas viveram"
+        ],
+        "futuro_do_pretérito": [
+          "eu viveria",
+          "tu viverias",
+          "ele/ela viveria",
+          "nós viveríamos",
+          "vós viveríeis",
+          "eles/elas viveriam"
+        ]
+      },
+      "correr": {
+        "presente": [
+          "eu corro",
+          "tu corres",
+          "ele/ela corre",
+          "nós corremos",
+          "vós correis",
+          "eles/elas correm"
+        ],
+        "pretérito_perfeito": [
+          "eu corri",
+          "tu correste",
+          "ele/ela correu",
+          "nós corremos",
+          "vós correstes",
+          "eles/elas correram"
+        ],
+        "futuro_do_presente": [
+          "eu correrei",
+          "tu correrás",
+          "ele/ela correrá",
+          "nós correremos",
+          "vós correreis",
+          "eles/elas correrão"
+        ],
+        "pretérito_imperfeito": [
+          "eu corria",
+          "tu corrias",
+          "ele/ela corria",
+          "nós corríamos",
+          "vós corríeis",
+          "eles/elas corriam"
+        ],
+        "pretérito_mais_que_perfeito": [
+          "eu correra",
+          "tu correras",
+          "ele/ela correra",
+          "nós corrêramos",
+          "vós corrêreis",
+          "eles/elas correram"
+        ],
+        "futuro_do_pretérito": [
+          "eu correria",
+          "tu correrias",
+          "ele/ela correria",
+          "nós correríamos",
+          "vós correríeis",
+          "eles/elas correriam"
+        ]
+      },
+      "sentir": {
+        "presente": [
+          "eu sinto",
+          "tu sentes",
+          "ele/ela sente",
+          "nós sentimos",
+          "vós sentis",
+          "eles/elas sentem"
+        ],
+        "pretérito_perfeito": [
+          "eu senti",
+          "tu sentiste",
+          "ele/ela sentiu",
+          "nós sentimos",
+          "vós sentistes",
+          "eles/elas sentiram"
+        ],
+        "futuro_do_presente": [
+          "eu sentirei",
+          "tu sentirás",
+          "ele/ela sentirá",
+          "nós sentiremos",
+          "vós sentireis",
+          "eles/elas sentirão"
+        ],
+        "pretérito_imperfeito": [
+          "eu sentia",
+          "tu sentias",
+          "ele/ela sentia",
+          "nós sentíamos",
+          "vós sentíeis",
+          "eles/elas sentiam"
+        ],
+        "pretérito_mais_que_perfeito": [
+          "eu sentira",
+          "tu sentiras",
+          "ele/ela sentira",
+          "nós sentíramos",
+          "vós sentíreis",
+          "eles/elas sentiram"
+        ],
+        "futuro_do_pretérito": [
+          "eu sentiria",
+          "tu sentirias",
+          "ele/ela sentiria",
+          "nós sentiríamos",
+          "vós sentiríeis",
+          "eles/elas sentiriam"
+        ]
+      },
+      "abrir": {
+        "presente": [
+          "eu abro",
+          "tu abres",
+          "ele/ela abre",
+          "nós abrimos",
+          "vós abris",
+          "eles/elas abrem"
+        ],
+        "pretérito_perfeito": [
+          "eu abri",
+          "tu abriste",
+          "ele/ela abriu",
+          "nós abrimos",
+          "vós abristes",
+          "eles/elas abriram"
+        ],
+        "futuro_do_presente": [
+          "eu abrirei",
+          "tu abrirás",
+          "ele/ela abrirá",
+          "nós abriremos",
+          "vós abrireis",
+          "eles/elas abrirão"
+        ],
+        "pretérito_imperfeito": [
+          "eu abria",
+          "tu abrias",
+          "ele/ela abria",
+          "nós abríamos",
+          "vós abríeis",
+          "eles/elas abriam"
+        ],
+        "pretérito_mais_que_perfeito": [
+          "eu abrira",
+          "tu abriras",
+          "ele/ela abrira",
+          "nós abríramos",
+          "vós abríreis",
+          "eles/elas abriram"
+        ],
+        "futuro_do_pretérito": [
+          "eu abriria",
+          "tu abririas",
+          "ele/ela abriria",
+          "nós abriríamos",
+          "vós abriríeis",
+          "eles/elas abririam"
+        ]
+      },
+      "estudar": {
+        "presente": [
+          "eu estudo",
+          "tu estudas",
+          "ele/ela estuda",
+          "nós estudamos",
+          "vós estudais",
+          "eles/elas estudam"
+        ],
+        "pretérito_perfeito": [
+          "eu estudei",
+          "tu estudaste",
+          "ele/ela estudou",
+          "nós estudamos",
+          "vós estudastes",
+          "eles/elas estudaram"
+        ],
+        "futuro_do_presente": [
+          "eu estudarei",
+          "tu estudarás",
+          "ele/ela estudará",
+          "nós estudaremos",
+          "vós estudareis",
+          "eles/elas estudarão"
+        ],
+        "pretérito_imperfeito": [
+          "eu estudava",
+          "tu estudavas",
+          "ele/ela estudava",
+          "nós estudávamos",
+          "vós estudáveis",
+          "eles/elas estudavam"
+        ],
+        "pretérito_mais_que_perfeito": [
+          "eu estudara",
+          "tu estudaras",
+          "ele/ela estudara",
+          "nós estudáramos",
+          "vós estudáreis",
+          "eles/elas estudaram"
+        ],
+        "futuro_do_pretérito": [
+          "eu estudaria",
+          "tu estudarias",
+          "ele/ela estudaria",
+          "nós estudaríamos",
+          "vós estudaríeis",
+          "eles/elas estudariam"
+        ]
+      },
+      "trabalhar": {
+        "presente": [
+          "eu trabalho",
+          "tu trabalhas",
+          "ele/ela trabalha",
+          "nós trabalhamos",
+          "vós trabalhais",
+          "eles/elas trabalham"
+        ],
+        "pretérito_perfeito": [
+          "eu trabalhei",
+          "tu trabalhaste",
+          "ele/ela trabalhou",
+          "nós trabalhamos",
+          "vós trabalhastes",
+          "eles/elas trabalharam"
+        ],
+        "futuro_do_presente": [
+          "eu trabalharei",
+          "tu trabalharás",
+          "ele/ela trabalhará",
+          "nós trabalharemos",
+          "vós trabalhareis",
+          "eles/elas trabalharão"
+        ],
+        "pretérito_imperfeito": [
+          "eu trabalhava",
+          "tu trabalhavas",
+          "ele/ela trabalhava",
+          "nós trabalhávamos",
+          "vós trabalháveis",
+          "eles/elas trabalhavam"
+        ],
+        "pretérito_mais_que_perfeito": [
+          "eu trabalhara",
+          "tu trabalharas",
+          "ele/ela trabalhara",
+          "nós trabalháramos",
+          "vós trabalháreis",
+          "eles/elas trabalharam"
+        ],
+        "futuro_do_pretérito": [
+          "eu trabalharia",
+          "tu trabalharias",
+          "ele/ela trabalharia",
+          "nós trabalharíamos",
+          "vós trabalharíeis",
+          "eles/elas trabalhariam"
+        ]
+      },
+      "andar": {
+        "presente": [
+          "eu ando",
+          "tu andas",
+          "ele/ela anda",
+          "nós andamos",
+          "vós andais",
+          "eles/elas andam"
+        ],
+        "pretérito_perfeito": [
+          "eu andei",
+          "tu andaste",
+          "ele/ela andou",
+          "nós andamos",
+          "vós andastes",
+          "eles/elas andaram"
+        ],
+        "futuro_do_presente": [
+          "eu andarei",
+          "tu andarás",
+          "ele/ela andará",
+          "nós andaremos",
+          "vós andareis",
+          "eles/elas andarão"
+        ],
+        "pretérito_imperfeito": [
+        "eu andava",
+        "tu andavas",
+        "ele/ela andava",
+        "nós andávamos",
+        "vós andáveis",
+        "eles/elas andavam"
+      ],
+      "pretérito_mais_que_perfeito": [
+        "eu andara",
+        "tu andaras",
+        "ele/ela andara",
+        "nós andáramos",
+        "vós andáreis",
+        "eles/elas andaram"
+      ],
+      "futuro_do_pretérito": [
+        "eu andaria",
+        "tu andarias",
+        "ele/ela andaria",
+        "nós andaríamos",
+        "vós andaríeis",
+        "eles/elas andariam"
+      ]
+    },
+    "beber": {
+      "presente": [
+        "eu bebo",
+        "tu bebes",
+        "ele/ela bebe",
+        "nós bebemos",
+        "vós bebeis",
+        "eles/elas bebem"
+      ],
+      "pretérito_perfeito": [
+        "eu bebi",
+        "tu bebeste",
+        "ele/ela bebeu",
+        "nós bebemos",
+        "vós bebestes",
+        "eles/elas beberam"
+      ],
+      "futuro_do_presente": [
+        "eu beberei",
+        "tu beberás",
+        "ele/ela beberá",
+        "nós beberemos",
+        "vós bebereis",
+        "eles/elas beberão"
+      ],
+      "pretérito_imperfeito": [
+        "eu bebia",
+        "tu bebias",
+        "ele/ela bebia",
+        "nós bebíamos",
+        "vós bebíeis",
+        "eles/elas bebiam"
+      ],
+      "pretérito_mais_que_perfeito": [
+        "eu bebera",
+        "tu beberas",
+        "ele/ela bebera",
+        "nós bebêramos",
+        "vós bebêreis",
+        "eles/elas beberam"
+      ],
+      "futuro_do_pretérito": [
+        "eu beberia",
+        "tu beberias",
+        "ele/ela beberia",
+        "nós beberíamos",
+        "vós beberíeis",
+        "eles/elas beberiam"
+      ]
+    },
+    "construir": {
+      "presente": [
+        "eu construo",
+        "tu constróis",
+        "ele/ela constrói",
+        "nós construímos",
+        "vós construís",
+        "eles/elas constroem"
+      ],
+      "pretérito_perfeito": [
+        "eu construí",
+        "tu construíste",
+        "ele/ela construiu",
+        "nós construímos",
+        "vós construístes",
+        "eles/elas construíram"
+      ],
+      "futuro_do_presente": [
+        "eu construirei",
+        "tu construirás",
+        "ele/ela construirá",
+        "nós construiremos",
+        "vós construireis",
+        "eles/elas construirão"
+      ],
+      "pretérito_imperfeito": [
+        "eu construía",
+        "tu construías",
+        "ele/ela construía",
+        "nós construíamos",
+        "vós construíeis",
+        "eles/elas construíam"
+      ],
+      "pretérito_mais_que_perfeito": [
+        "eu construíra",
+        "tu construíras",
+        "ele/ela construíra",
+        "nós construíramos",
+        "vós construíreis",
+        "eles/elas construíram"
+      ],
+      "futuro_do_pretérito": [
+        "eu construiria",
+        "tu construirias",
+        "ele/ela construiria",
+        "nós construiríamos",
+        "vós construiríeis",
+        "eles/elas construiriam"
+      ]
+    },
+    "dizer": {
+      "presente": [
+        "eu digo",
+        "tu dizes",
+        "ele/ela diz",
+        "nós dizemos",
+        "vós dizeis",
+        "eles/elas dizem"
+      ],
+      "pretérito_perfeito": [
+        "eu disse",
+        "tu disseste",
+        "ele/ela disse",
+        "nós dissemos",
+        "vós dissestes",
+        "eles/elas disseram"
+      ],
+      "futuro_do_presente": [
+        "eu direi",
+        "tu dirás",
+        "ele/ela dirá",
+        "nós diremos",
+        "vós direis",
+        "eles/elas dirão"
+      ],
+      "pretérito_imperfeito": [
+        "eu dizia",
+        "tu dizias",
+        "ele/ela dizia",
+        "nós dizíamos",
+        "vós dizíeis",
+        "eles/elas diziam"
+      ],
+      "pretérito_mais_que_perfeito": [
+        "eu dissera",
+        "tu disseras",
+        "ele/ela dissera",
+        "nós disséramos",
+        "vós disséreis",
+        "eles/elas disseram"
+      ],
+      "futuro_do_pretérito": [
+        "eu diria",
+        "tu dirias",
+        "ele/ela diria",
+        "nós diríamos",
+        "vós diríeis",
+        "eles/elas diriam"
+      ]
+    },
+    "ficar": {
+      "presente": [
+        "eu fico",
+        "tu ficas",
+        "ele/ela fica",
+        "nós ficamos",
+        "vós ficais",
+        "eles/elas ficam"
+      ],
+      "pretérito_perfeito": [
+        "eu fiquei",
+        "tu ficaste",
+        "ele/ela ficou",
+        "nós ficamos",
+        "vós ficastes",
+        "eles/elas ficaram"
+      ],
+      "futuro_do_presente": [
+        "eu ficarei",
+        "tu ficarás",
+        "ele/ela ficará",
+        "nós ficaremos",
+        "vós ficareis",
+        "eles/elas ficarão"
+      ],
+      "pretérito_imperfeito": [
+        "eu ficava",
+        "tu ficavas",
+        "ele/ela ficava",
+        "nós ficávamos",
+        "vós ficáveis",
+        "eles/elas ficavam"
+      ],
+      "pretérito_mais_que_perfeito": [
+        "eu ficara",
+        "tu ficaras",
+        "ele/ela ficara",
+        "nós ficáramos",
+        "vós ficáreis",
+        "eles/elas ficaram"
+      ],
+      "futuro_do_pretérito": [
+        "eu ficaria",
+        "tu ficarias",
+        "ele/ela ficaria",
+        "nós ficaríamos",
+        "vós ficaríeis",
+        "eles/elas ficariam"
+      ]
+    },
+    "jogar": {
+      "presente": [
+        "eu jogo",
+        "tu jogas",
+        "ele/ela joga",
+        "nós jogamos",
+        "vós jogais",
+        "eles/elas jogam"
+      ],
+      "pretérito_perfeito": [
+        "eu joguei",
+        "tu jogaste",
+        "ele/ela jogou",
+        "nós jogamos",
+        "vós jogastes",
+        "eles/elas jogaram"
+      ],
+      "futuro_do_presente": [
+        "eu jogarei",
+        "tu jogarás",
+        "ele/ela jogará",
+        "nós jogaremos",
+        "vós jogareis",
+        "eles/elas jogarão"
+      ],
+      "pretérito_imperfeito": [
+        "eu jogava",
+        "tu jogavas",
+        "ele/ela jogava",
+        "nós jogávamos",
+        "vós jogáveis",
+        "eles/elas jogavam"
+      ],
+      "pretérito_mais_que_perfeito": [
+        "eu jogara",
+        "tu jogaras",
+        "ele/ela jogara",
+        "nós jogáramos",
+        "vós jogáreis",
+        "eles/elas jogaram"
+      ],
+      "futuro_do_pretérito": [
+        "eu jogaria",
+        "tu jogarias",
+        "ele/ela jogaria",
+        "nós jogaríamos",
+        "vós jogaríeis",
+        "eles/elas jogariam"
+      ]
+    },
+    "ler": {
+      "presente": [
+        "eu leio",
+        "tu lês",
+        "ele/ela lê",
+        "nós lemos",
+        "vós ledes",
+        "eles/elas leem"
+      ],
+      "pretérito_perfeito": [
+        "eu li",
+        "tu leste",
+        "ele/ela leu",
+        "nós lemos",
+        "vós lestes",
+        "eles/elas leram"
+      ],
+      "futuro_do_presente": [
+        "eu lerei",
+        "tu lerás",
+        "ele/ela lerá",
+        "nós leremos",
+        "vós lereis",
+        "eles/elas lerão"
+      ],
+      "pretérito_imperfeito": [
+        "eu lia",
+        "tu lias",
+        "ele/ela lia",
+        "nós líamos",
+        "vós líeis",
+        "eles/elas liam"
+      ],
+      "pretérito_mais_que_perfeito": [
+        "eu lera",
+        "tu leras",
+        "ele/ela lera",
+        "nós lêramos",
+        "vós lêreis",
+        "eles/elas leram"
+      ],
+      "futuro_do_pretérito": [
+        "eu leria",
+        "tu lerias",
+        "ele/ela leria",
+        "nós leríamos",
+        "vós leríeis",
+        "eles/elas leriam"
+      ]
+    },
+    "ouvir": {
+      "presente": [
+        "eu ouço",
+        "tu ouves",
+        "ele/ela ouve",
+        "nós ouvimos",
+        "vós ouvis",
+        "eles/elas ouvem"
+      ],
+      "pretérito_perfeito": [
+        "eu ouvi",
+        "tu ouviste",
+        "ele/ela ouviu",
+        "nós ouvimos",
+        "vós ouvistes",
+        "eles/elas ouviram"
+      ],
+      "futuro_do_presente": [
+        "eu ouvirei",
+        "tu ouvirás",
+        "ele/ela ouvirá",
+        "nós ouviremos",
+        "vós ouvireis",
+        "eles/elas ouvirão"
+      ],
+      "pretérito_imperfeito": [
+        "eu ouvia",
+        "tu ouvias",
+        "ele/ela ouvia",
+        "nós ouvíamos",
+        "vós ouvíeis",
+        "eles/elas ouviam"
+      ],
+      "pretérito_mais_que_perfeito": [
+        "eu ouvira",
+        "tu ouviras",
+        "ele/ela ouvira",
+        "nós ouvíramos",
+        "vós ouvíreis",
+        "eles/elas ouviram"
+      ],
+      "futuro_do_pretérito": [
+        "eu ouviria",
+        "tu ouvirias",
+        "ele/ela ouviria",
+        "nós ouviríamos",
+        "vós ouviríeis",
+        "eles/elas ouviriam"
+      ]
+    },
+    "pedir": {
+      "presente": [
+        "eu peço",
+        "tu pedes",
+        "ele/ela pede",
+        "nós pedimos",
+        "vós pedis",
+        "eles/elas pedem"
+      ],
+      "pretérito_perfeito": [
+        "eu pedi",
+        "tu pediste",
+        "ele/ela pediu",
+        "nós pedimos",
+        "vós pedistes",
+        "eles/elas pediram"
+      ],
+      "futuro_do_presente": [
+        "eu pedirei",
+        "tu pedirás",
+        "ele/ela pedirá",
+        "nós pediremos",
+        "vós pedireis",
+        "eles/elas pedirão"
+      ],
+      "pretérito_imperfeito": [
+        "eu pedia",
+        "tu pedias",
+        "ele/ela pedia",
+        "nós pedíamos",
+        "vós pedíeis",
+        "eles/elas pediam"
+      ],
+      "pretérito_mais_que_perfeito": [
+        "eu pedira",
+        "tu pediras",
+        "ele/ela pedira",
+        "nós pedíramos",
+        "vós pedíreis",
+        "eles/elas pediram"
+      ],
+      "futuro_do_pretérito": [
+        "eu pediria",
+        "tu pedirias",
+        "ele/ela pediria",
+        "nós pediríamos",
+        "vós pediríeis",
+        "eles/elas pediriam"
+      ]
+    },
+    "saber": {
+      "presente": [
+        "eu sei",
+        "tu sabes",
+        "ele/ela sabe",
+        "nós sabemos",
+        "vós sabeis",
+        "eles/elas sabem"
+      ],
+      "pretérito_perfeito": [
+        "eu soube",
+        "tu soubeste",
+        "ele/ela soube",
+        "nós soubemos",
+        "vós soubestes",
+        "eles/elas souberam"
+      ],
+      "futuro_do_presente": [
+        "eu saberei",
+        "tu saberás",
+        "ele/ela saberá",
+        "nós saberemos",
+        "vós sabereis",
+        "eles/elas saberão"
+      ],
+      "pretérito_imperfeito": [
+        "eu sabia",
+        "tu sabias",
+        "ele/ela sabia",
+        "nós sabíamos",
+        "vós sabíeis",
+        "eles/elas sabiam"
+      ],
+      "pretérito_mais_que_perfeito": [
+        "eu soubera",
+        "tu souberas",
+        "ele/ela soubera",
+        "nós soubéramos",
+        "vós soubéreis",
+        "eles/elas souberam"
+      ],
+      "futuro_do_pretérito": [
+        "eu saberia",
+        "tu saberias",
+        "ele/ela saberia",
+        "nós saberíamos",
+        "vós saberíeis",
+        "eles/elas saberiam"
+      ]
+    }
+  }
+}
